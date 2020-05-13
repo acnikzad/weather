@@ -1,0 +1,7 @@
+@weathers.map do |weather|
+  {
+
+
+  }
+end
+
